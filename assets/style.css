@@ -1,0 +1,11 @@
+.dashboard-title {
+    text-align: center;
+    color: #0047AB;
+    font-size: 2.8em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Segoe UI', sans-serif;
+}
